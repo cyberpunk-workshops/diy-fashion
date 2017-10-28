@@ -38,6 +38,8 @@ unter Löcher Neon-Patches drunternähen
 
 gibts nicht noch was bequemeres?
 
+Rock ziemlich asymetrisch wäre cool? Da könnte man auch den Neon/Loch-Stoff-Style featuren, ggf?
+
 
 ### Accessoires
 
