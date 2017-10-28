@@ -1,4 +1,12 @@
-## Mantel
+# DIY-Cyberpunk Fashion
+
+Das hier ist erstmal ne Sammlung, was man so als Cyberpunk Fashion betrachten könnte.
+Speziell für Accessoires könnte man dann eben einen Workshop machen, andere Sachen
+müssten Leute sich eben zuhause basteln.
+
+## Was möglich ist:
+
+### Mantel
 
 Längerer schwarzer Mantel, bei dem Ecken rausgeschnitten sind, um ihn schiefer wirken zu lassen
 
@@ -6,7 +14,7 @@ Längerer schwarzer Mantel, bei dem Ecken rausgeschnitten sind, um ihn schiefer 
 * viele Taschen, viele Reisverschlüsse
 
 
-## Pulli (evtl Ärmellos)
+### Pulli (evtl Ärmellos)
 
 Untere Schicht: Neonfarben, eng anliegend
 
@@ -15,7 +23,7 @@ Obere Schicht: lose, dunkel, Löcher reinreißen, damit das Neon durchschimmert
 Zusammennähen relativ einfach - an Kragen & Saum am Besten ganz, sonst einfach hier & da zwischen den Löchern, müss gar nicht sooo viele Nähte sein
 
 
-## Enge Hose
+### Enge Hose
 
 Dunkel oder Neon
 
@@ -26,12 +34,12 @@ Käbel könnten auch gut kommen - doof zu waschen
 unter Löcher Neon-Patches drunternähen
 
 
-## Rock, Kleid, Weite Hose?
+### Rock, Kleid, Weite Hose?
 
 gibts nicht noch was bequemeres?
 
 
-## Accessoires
+### Accessoires
 
 3D-gedruckte Tunnel
 
@@ -45,4 +53,6 @@ Applications / i. e. Patches in Datachip-Structure-Style. Acrylfarben halten lan
 
 Mercedessterne mit Nagellack anmalen
 
+## Linksammlung
 
+https://www.neondystopia.com/cyberpunk-fashion-lifestyle/get-cyberpunk-clothing/
